@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.hero.sm.m4399"
+#define GamePackageName "com.ChillyRoom.DungeonShooter"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
