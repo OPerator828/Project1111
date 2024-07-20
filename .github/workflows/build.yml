@@ -2,8 +2,8 @@ name: Build
 on:
   workflow_dispatch:
       inputs:
-        package_name: "com.nebulajoy.act.dmcpoc"
-          description: "Package name of the game:"
+        package_name: "com.eapublishing.dhsw.free"
+          description: "com.eapublishing.dhsw.free:"
           required: true
 
 jobs:
