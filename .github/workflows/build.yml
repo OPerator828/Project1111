@@ -5,7 +5,10 @@ on:
         package_name:
           description: "Package name of the game:"
           required: true
-
+        magisk_module_id:
+        module_name:
+        module_author:
+        module_description:
 jobs:
   build:
     runs-on: ubuntu-latest
