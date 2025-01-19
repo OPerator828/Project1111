@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.hardtime.yzmj.yongzhe"
+#define GamePackageName "com.hd.xxdkhb.and"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
