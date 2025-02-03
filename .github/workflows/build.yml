@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.LanPiaoPiao.PlantsVsZombiesRH.zzb"
+          description: "com.imangi.templerun2"
           required: true
 
 jobs:
